@@ -32,3 +32,12 @@ img {
     background-color: antiquewhite;
     padding: 2px;
 }
+
+.super {
+    font-family: "Brush Script MT", cursive;
+    position: absolute;
+    font-size: 230%;
+    left: 5%;
+    top: 40px;
+    transform: rotate(-30deg);
+}
